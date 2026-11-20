@@ -15,5 +15,6 @@ void ft_putnbr_unis(unsigned int n);
 void ft_putchar(char c);
 void ft_putstr(char *s);
 void ft_print_hex (unsigned int n, char form);
-void ft_prin_pointer_hex(int n);
+
+void ft_prin_pointer_hex(void * p);
 #endif
